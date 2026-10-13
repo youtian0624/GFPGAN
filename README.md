@@ -73,6 +73,9 @@ Other recommended projects:<br>
 - Option: NVIDIA GPU + [CUDA](https://developer.nvidia.com/cuda-downloads)
 - Option: Linux
 
+
+### 主要用来图像修复，可以做成个人使用app
+
 ### Installation
 
 We now provide a *clean* version of GFPGAN, which does not require customized CUDA extensions. <br>
